@@ -8,7 +8,7 @@ O dashboard consolida métricas de diferentes canais de marketing em uma única 
 
 ---
 
-## 📊 Resultados Analisados
+## Resultados Analisados
 
 - **147.000** impressões
 - **6.634** cliques
@@ -19,7 +19,7 @@ O dashboard consolida métricas de diferentes canais de marketing em uma única 
 
 ---
 
-## 💡 Principal Insight
+## Principal Insight
 
 > Embora o **Google Ads** tenha registrado o maior volume de conversões (**129**), o **TikTok Ads** apresentou o menor CPA do período (**R$ 23,81**).
 >
@@ -27,7 +27,7 @@ O dashboard consolida métricas de diferentes canais de marketing em uma única 
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Dashboard interativo
 - Filtros por período
@@ -42,7 +42,7 @@ O dashboard consolida métricas de diferentes canais de marketing em uma única 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**
 - **Pandas**
@@ -52,7 +52,7 @@ O dashboard consolida métricas de diferentes canais de marketing em uma única 
 
 ---
 
-## 🖼️ Demonstração
+## Demonstração
 
 ### Dashboard Executivo
 
